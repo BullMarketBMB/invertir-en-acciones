@@ -15,7 +15,7 @@ Las ventajas son muchisimas!
 - Se puede empezar con una pequeña inversión (se recomiendan $10.000)
 - Desde internet se puede hacer el seguimiento de la evolución de la inversión.
 
-Históricamente, la bolsa es la inversión que siempre le gana a todas las demás, incluyendo al dólar, refugio de valor favorito de los argentinos. Si comparamos los rendimientos acumulados desde enero de 2013 hasta junio de 2016 veremos como el índice MERVAL subió un 414% mientras que el dólar sólo subió un 203%. Lo mismo ocurre si comparamos contra los plazos fijos, que dieron un rendimiento de un 100% en ese período y lo acompañan los inmuebles, con un 182%. Como pueden ver, [invertir en bolsa](http://invertirenacciones.com.ar/) siempre es la mejor opción!!!
+Históricamente, la bolsa es la inversión que siempre le gana a todas las demás, incluyendo al dólar, refugio de valor favorito de los argentinos. Si comparamos los rendimientos acumulados desde enero de 2013 hasta junio de 2016 veremos como el índice MERVAL subió un 414% mientras que el dólar sólo subió un 203%. Lo mismo ocurre si comparamos contra los plazos fijos, que dieron un rendimiento de un 100% en ese período y lo acompañan los inmuebles, con un 182%. Como pueden ver, [invertir en acciones](http://invertirenacciones.com.ar/) siempre es la mejor opción!!!
 
 Sabiendo esto, no hay mejor inversión que la bolsa. Una vez que abren cuenta en el broker <b> ya están listos para empezar a ganar dinero! <b>
 
