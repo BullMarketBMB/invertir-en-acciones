@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Invertir en Acciones
 
-You can use the [editor on GitHub](https://github.com/BullMarketBMB/invertirenaccinones/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Invertir en acciones es muy fácil... consiste en 3 simples pasos:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Abrir una cuenta en una sociedad de bolsa
+2. Realizar una transferencia de fondos
+3. Comenzar a invertir!!
 
-### Markdown
+<IMG SRC="http://www.inviertaparaganar.com/blog/wp-content/uploads/2012/11/como-invertir-mi-dinero.jpg">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Las ventajas son muchisimas!
 
-```markdown
-Syntax highlighted code block
+- Es muy fácil
+- No se necesita contar con conocimientos previos ya que siempre habrá un profesional de finanzas de la sociedad de bolsa para ayudarlo.
+- Se puede empezar con una pequeña inversión (se recomiendan $10.000)
+- Desde internet se puede hacer el seguimiento de la evolución de la inversión.
 
-# Header 1
-## Header 2
-### Header 3
+Históricamente, la bolsa es la inversión que siempre le gana a todas las demás, incluyendo al dólar, refugio de valor favorito de los argentinos. Si comparamos los rendimientos acumulados desde enero de 2013 hasta junio de 2016 veremos como el índice MERVAL subió un 414% mientras que el dólar sólo subió un 203%. Lo mismo ocurre si comparamos contra los plazos fijos, que dieron un rendimiento de un 100% en ese período y lo acompañan los inmuebles, con un 182%. Como pueden ver, [invertir en bolsa](http://invertirenacciones.com.ar/) siempre es la mejor opción!!!
 
-- Bulleted
-- List
+Sabiendo esto, no hay mejor inversión que la bolsa. Una vez que abren cuenta en el broker <b> ya están listos para empezar a ganar dinero! <b>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BullMarketBMB/invertirenaccinones/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
